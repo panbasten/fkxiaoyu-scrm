@@ -55,7 +55,8 @@
 
 ## 疯狂小鱼产品演示视频
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114630043111939&bvid=BV1RNTxz8EpS&cid=30333406247&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+https://player.bilibili.com/player.html?isOutside=true&aid=114630043111939&bvid=BV1RNTxz8EpS&cid=30333406247&p=1
+
 01.疯狂小鱼店长APP使用说明
 
 02.疯狂小鱼后台页面演示
