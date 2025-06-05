@@ -15,3 +15,38 @@
 ## 疯狂小鱼的关键客户
 
 ![img.png](assets/base/brands.png)
+
+
+## 疯狂小鱼产品特点
+
+下一代的SCRM营销助手：任务编排+店长关怀+AI辅助=有温度的服务和营销
+
+![img.png](assets/base/feature.png)
+
+
+## 疯狂小鱼的产品
+
+### 1.SCRM系统
+
+![scrm.png](assets/base/scrm.png)
+
+
+### 2.超级店长APP
+
+![app.png](assets/base/app.png)
+
+### 3.微商城
+
+![marketing.png](assets/base/marketing.png)
+
+### 4.RPA套件
+
+![rpa.png](assets/base/rpa.png)
+
+### 5.AIGC工具
+
+![aigc.png](assets/base/aigc.png)
+
+### 6.数据驾驶舱
+
+![insight.png](assets/base/insight.png)
