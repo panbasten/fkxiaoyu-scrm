@@ -55,13 +55,9 @@
 
 ## 疯狂小鱼产品演示视频
 
-01.疯狂小鱼店长APP使用说明
+[01.疯狂小鱼店长APP使用说明](https://player.bilibili.com/player.html?isOutside=true&aid=114630043111939&bvid=BV1RNTxz8EpS&cid=30333406247&p=1){:target="_blank"}
 
-https://player.bilibili.com/player.html?isOutside=true&aid=114630043111939&bvid=BV1RNTxz8EpS&cid=30333406247&p=1
-
-02.疯狂小鱼后台页面演示
-
-https://player.bilibili.com/player.html?isOutside=true&aid=114630160618502&bvid=BV1TETxzQEot&cid=30333931447&p=1
+[02.疯狂小鱼后台页面演示](https://player.bilibili.com/player.html?isOutside=true&aid=114630160618502&bvid=BV1TETxzQEot&cid=30333931447&p=1){:target="_blank"}
 
 
 ## 疯狂小鱼产品功能清单
