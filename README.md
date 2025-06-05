@@ -53,6 +53,14 @@
 ![insight.png](assets/base/insight.png)
 
 
+## 疯狂小鱼产品演示视频
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114630043111939&bvid=BV1RNTxz8EpS&cid=30333406247&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+01.疯狂小鱼店长APP使用说明
+
+02.疯狂小鱼后台页面演示
+
+
 ## 疯狂小鱼产品功能清单
 
 [01.疯狂小鱼微商城后台功能清单](01.%E7%96%AF%E7%8B%82%E5%B0%8F%E9%B1%BC%E5%BE%AE%E5%95%86%E5%9F%8E%E5%90%8E%E5%8F%B0%E5%8A%9F%E8%83%BD%E6%B8%85%E5%8D%95.md)
