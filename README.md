@@ -53,6 +53,12 @@
 ![insight.png](assets/base/insight.png)
 
 
+## 核心功能
+
+### 1.工作手机聊天记录分析
+
+微信聊天记录、、通话、短信全记录，分析话术
+
 ## 疯狂小鱼产品演示视频
 
 [01.疯狂小鱼店长APP使用说明](https://player.bilibili.com/player.html?isOutside=true&aid=114630043111939&bvid=BV1RNTxz8EpS&cid=30333406247&p=1)
