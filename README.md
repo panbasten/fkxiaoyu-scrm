@@ -57,7 +57,29 @@
 
 ### 1.工作手机聊天记录分析
 
-微信聊天记录、、通话、短信全记录，分析话术
+微信聊天记录、自己发布的朋友圈、点赞回复的好友朋友圈、通话记录、短信记录上传服务器保存，用于后续分析话术培养金牌店长，同时可以监控客服使用不当言论造成损失。
+
+![customer-review.png](assets/base/customer-review.png)
+
+### 2.用户画像
+
+自定义企业用户画像：好友信息类型设置、好友阶段生命周期定义、好友标签、订单标签、好友转介绍...
+
+![customer-profile.png](assets/base/customer-profile.png)
+
+### 3.人群包
+
+全维度筛选用户：支持不同维度联合筛选，支持用户属性和用户行为联合筛选。
+
+每日更新人群包：可以设置一次性人群包、或者每日更新人群包。
+
+![customer-package.png](assets/base/customer-package.png)
+
+### 4.订单绩效管理
+
+订单管理、绩效管理：小鱼商城私域订单、电商平台全域订单、全域数据对接、订单认领、员工绩效
+
+![order-performance.png](assets/base/order-performance.png)
 
 ## 疯狂小鱼产品演示视频
 
