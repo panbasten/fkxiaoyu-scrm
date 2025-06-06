@@ -68,5 +68,17 @@
 
 [03.疯狂小鱼私域APP功能清单](03.%E7%96%AF%E7%8B%82%E5%B0%8F%E9%B1%BC%E7%A7%81%E5%9F%9FAPP%E5%8A%9F%E8%83%BD%E6%B8%85%E5%8D%95.md)
 
+## 部署环境
+
+kubernetes、ceph、nas、minio、mysql8 innoDB cluster、postgresql、redis、es7、rocketmq
+
+
+## 疯狂小鱼产品提供源代码授权和全套k8s部署脚本
+
+微信联系我详谈
+
+![wx.png](assets/base/wx.png)
+
+
 
 
