@@ -104,7 +104,7 @@ kubernetes、ceph、nas、minio、mysql8 innoDB cluster、postgresql、redis、e
 
 ## 疯狂小鱼产品提供源代码授权和全套k8s部署脚本
 
-微信联系我详谈
+平台适合企业内部业务场景的二次开发，微信联系我详谈
 
 ![wx.png](assets/base/wx.png)
 
